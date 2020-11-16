@@ -1,0 +1,22 @@
+.class1 {
+    background-color: skyblue;
+    width: 680px;
+    height: 500px;
+}
+
+.class2 {
+    background-color: green;
+    width: 450px;
+    height: 100px;
+}
+
+.class3 {
+    color: orchid;
+    font-size: 30px;
+
+}
+
+.class4 {
+     color: red;
+    font-size: 30px;
+}

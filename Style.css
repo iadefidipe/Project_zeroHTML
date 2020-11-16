@@ -1,0 +1,28 @@
+.box1 {
+    background-color: yellow;
+    width: 600px;
+    height: 400px;
+}
+
+.box2 {
+    background-color: greenyellow;
+    width: 600px;
+    height: 400px;
+}
+
+.highlight-text {
+    color: hotpink;
+    font-size: 30px;
+}
+
+.box3 {
+    background-color: lawngreen;
+    width:  100px;
+    height: 300px;
+}
+
+.box4 {
+    background-color: lawngreen;
+    width:  350px;
+    height: 120px;
+}
